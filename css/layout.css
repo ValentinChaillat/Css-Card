@@ -1,22 +1,10 @@
-@media screen and (max-width:767px){
 
 
-}
-
-@media screen and (min-width:767px) and (max-width:900px)
+/* Responsive page de card */
+@media screen and (max-width:1300px)
 {
-
-
-}
-
-@media screen and (min-width:900px) and (max-width:1300px)
-{
-
-
-}
-
-@media screen and (min-width:1300px)
-{
-
+  .card1{left:50%;}
+  .card2{left:50%; top: 130%;}
+  .card3{left:50%; top: 210%;}
 
 }
